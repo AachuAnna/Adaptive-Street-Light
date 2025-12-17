@@ -57,7 +57,3 @@ https://drive.google.com/file/d/11lPXEuzCoNaNwmhIoGqbVnIar1zG7Vgf/view?usp=shari
 - IoT-based remote monitoring
 - Automatic fault detection
 
----
-
-## 👩‍💻 Author
-- Helna Mary Sherin
